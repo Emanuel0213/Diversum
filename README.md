@@ -3,6 +3,8 @@ Diversum is an inclusive social platform designed to foster meaningful connectio
 
 The platform is built on the Solana blockchain and utilizes SOL tokens for in-app transactions, rewards, and community engagement, ensuring both transparency and security.
 
+This project includes the design files created in Figma. You can view the prototype by [clicking here](https://www.figma.com/proto/gz618WQieB67PIZTB3oIFh/Diversum_Telas?t=2Hf71po8hIZJOIbd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=11-70&starting-point-node-id=11%3A70).
+
 # Key Features
 - **Inclusive Matching:** A user-friendly interface tailored to neurodivergent users, offering personalized options for connecting with others.
 - **Friendship & Relationship Mode:** Allows users to find both friendships and romantic relationships, depending on their preferences.
